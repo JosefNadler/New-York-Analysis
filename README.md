@@ -2,6 +2,6 @@
 
 Explanation  blah blah blah
 
-## Methodlogie
+## Methodologie
 
 That's the way I do things...
